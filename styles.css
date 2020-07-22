@@ -74,4 +74,14 @@ body{
 
 #myArticles{
     text-decoration: underline;
+
+}
+
+.graph{
+    position: relative;
+    right: 0px;
+}
+
+#sourcegraph{
+    font-size: 10px;
 }
