@@ -1,6 +1,6 @@
 .header{
     color: white;
-    font-size: 100px;
+    font-size: large;
 
 }
 
@@ -29,7 +29,7 @@ body{
 .divButton{
     position: relative;
     right: 5px;
-    top: 60px;
+    top: 10px;
 }
 
 .filedownload{
@@ -41,6 +41,15 @@ body{
 .lakshanHeader{
     color: rgb(221, 77, 24);
     font-weight: bold;
+}
+
+.linkToBlog{
+    position: relative;
+    top: 30px;
+}
+
+#blog{
+    color: white;
 }
 
 
