@@ -72,3 +72,6 @@ body{
     color: rgb(66, 66, 165);
 }
 
+#myArticles{
+    text-decoration: underline;
+}
