@@ -55,19 +55,19 @@ body{
 
 #specifications{
     color:white;
-    font-size: 40px;
+    font-size: 135%;
     text-align: left;
 }
 
 #introSpec{
     color: white;
-    font-size: 20px;
+    font-size: 100%;
     text-overflow: ellipsis;
 }
 
 .blogName{
     color: white;
-    font-size: 40pt;
+    font-size: 150%;
 }
 
 
