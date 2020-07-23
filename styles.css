@@ -89,3 +89,20 @@ body{
 .headerIphone{
     color: rgb(192,190,190);
 }
+
+.button{
+    background-color: red;
+    color: white;
+    border-radius: 40%
+}
+
+.button:hover{
+    background-color: blue;
+    color: white;
+}
+
+
+.visitor{
+    position: relative;
+    left: 95%;
+}
