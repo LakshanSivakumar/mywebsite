@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="styles.css"> 
   <link rel="shortcut icon" href="/favicon.ico.ico" type="image/x-icon">
     <h1>
-        Success!
+        Get into contact with me!
     </h1>
 
 
@@ -19,6 +19,26 @@
 
 <body>
 
+    <form name="contact" method="POST" data-netlify="true">
+        <p>
+          <label>Your Name: <input type="text" name="name" / style="background-color: white;"></label>   
+        </p>
+        <p>
+          <label>Your Email: <input type="email" name="email" / style="background-color: white;"></label>
+        </p>
+    
+        <p>
+          <label>Message: <textarea name="message" style="background-color: white;"></textarea></label>
+        </p>
+        <p>
+            <div data-netlify-recaptcha="true">
+
+            </div>
+        </p>
+        <p>
+          <button type="submit" style="background-color: white;">Send</button>
+        </p>
+      </form>
     
 </body>
 </html> 

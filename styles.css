@@ -90,15 +90,13 @@ body{
     color: rgb(192,190,190);
 }
 
-.button{
-    background-color: red;
-    color: white;
-    border-radius: 40%
-}
 
-.button:hover{
-    background-color: blue;
-    color: white;
+.button{
+    border: 0;
+    background: none;
+    box-shadow: none;
+    border-radius: 0px;
+    background-color: rgb(193, 68, 180);
 }
 
 
