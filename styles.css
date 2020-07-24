@@ -4,13 +4,13 @@
 }
 
 body{
-    background-color: rgb(26,25,25)
+    background-color: rgb(85, 140, 243)
 }
 
 *{
     font-family: Arial, Helvetica, sans-serif;
-    color: gray;
-    background-color: rgb(26, 25, 25)
+    color: rgb(255, 246, 246);
+    background-color: rgb(85, 140, 243)
 }   
 
 #button{
@@ -47,7 +47,7 @@ body{
 #specifications{
     font-size: 135%;
     text-align: left;
-    color: rgb(192, 190, 190);
+    color: white;
 }
 
 #introSpec{
@@ -57,7 +57,7 @@ body{
 
 .blogName{
     font-size: 150%;
-    color: rgb(192, 190, 190);
+    color: white;
 }
 
 .ULlistForChip{
@@ -65,7 +65,7 @@ body{
 }
 
 .listForChip{
-    color: rgb(192, 190, 190);
+    color: white;
 }
 
 #blog{
@@ -87,7 +87,7 @@ body{
 }
 
 .headerIphone{
-    color: rgb(192,190,190);
+    color: white;
 }
 
 
@@ -103,4 +103,10 @@ body{
 .visitor{
     position: relative;
     left: 95%;
+}
+
+.buttons{
+
+    border: none;
+    font-size: 55%;
 }
